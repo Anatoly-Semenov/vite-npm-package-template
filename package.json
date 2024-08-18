@@ -1,6 +1,6 @@
 {
 	"name": "npm-pacakge-template",
-	"version": "0.0.4",
+	"version": "1.0.0",
 	"description": "Default npm package template",
 	"type": "module",
 	"main": "./dist/index.umd.js",
